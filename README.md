@@ -14,14 +14,18 @@
 
 ## Installation
 
-- Clone the repo and `cd` into it
+- Clone repo dan `cd` 
 - Run `composer install`
-- Rename or copy `.env.example` file to `.env`
+- Rename atau copy `.env.example` file to `.env`
 - Run `php artisan key:generate`
-- Set your database credentials in your `.env` file
+- Set database credentials di `.env` file
 - Run migration `php artisan migrate`
-- Make something awesome!
 
 ## Note
 
-Recommend to install this preset on a project that you are starting from scratch, otherwise your project's design might break.
+Project Web Programming - LF01.
+2501988056 - FAIZ ARYA RABBANI
+2501989771 - ADVENT LAURENSIUS CUANG
+2501997211 - DEO DHIVARA SUPRIYADI
+2501985760 - RAFI MUHAMMAD ADYATMA
+2501983906 - NADHIF FATHONI HAFIZ
